@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on WonderTravel.co
-- 🌱 I’m currently learning Next 15 version
+- 🔭 I’m currently working on crabi.com
+- 🌱 I’m currently learning testing 
 - 💬 Ask me about frontend and turism in Colombia
 - ⚡ Fun fact: I'm photographer 
 
